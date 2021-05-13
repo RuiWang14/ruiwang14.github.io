@@ -1,13 +1,3 @@
----
-markdown:
-  image_dir: /assets
-  path: /welcome.md
-  ignore_from_front_matter: true
-  absolute_image_path: false
-export_on_save:
-  markdown: false
----
-
 ## Welcome to GitHub Pages
   
 You can use the [editor on GitHub](https://github.com/RuiWang14/ruiwang14.github.io/edit/master/README.md ) to maintain and preview the content for your website in Markdown files.
