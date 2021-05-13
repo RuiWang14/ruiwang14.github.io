@@ -1,5 +1,13 @@
-  
-  
+---
+markdown:
+  image_dir: /assets
+  path: /welcome.md
+  ignore_from_front_matter: true
+  absolute_image_path: false
+export_on_save:
+  markdown: false
+---
+
 ##  Welcome to GitHub Pages
   
   
@@ -41,7 +49,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
   
   
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/ ) or [contact support](https://github.com/contact ) and we’ll help you sort it out.
-  
 
-![](assets/f4242aba8b520e8de8dcb2694361b6230.png?0.2967027851452724)  
   
